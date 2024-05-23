@@ -2,8 +2,7 @@
 
 Print the signature certificate information in an APK.
 
-## Docker ![Docker Image Version](https://img.shields.io/docker/v/lenoxxian/print-apk-cert?sort=semver)
-
+## Docker [![Docker Image Version](https://img.shields.io/docker/v/lenoxxian/print-apk-cert?sort=semver)][hub]
 
 ```
 docker run --rm  -v you.apk:/app.apk lenoxxian/print-apk-cert
